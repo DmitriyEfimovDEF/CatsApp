@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CatApp</string>
+
+    <string name="home">Breeds</string>
+    <string name="favorites">Favorites</string>
+    <string name="empty">There are no cats data :(</string>
+    <string name="empty_favorites">You haven\'t choose your favourite cat</string>
+
+</resources>
